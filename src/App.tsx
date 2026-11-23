@@ -8,6 +8,9 @@ import { MoviesPage } from './pages/MoviesPage';
 import { MovieDetailPage } from './pages/MovieDetailPage';
 import { SeriesPage } from './pages/SeriesPage';
 import { SeriesDetailPage } from './pages/SeriesDetailPage';
+import { KidsPage } from './pages/KidsPage';
+import { AnimePage } from './pages/AnimePage';
+import { ExplorarPage } from './pages/ExplorarPage';
 import { SearchPage } from './pages/SearchPage';
 import { FavoritesPage } from './pages/FavoritesPage';
 import { SettingsPage } from './pages/SettingsPage';
@@ -28,6 +31,9 @@ export default function App() {
           <Route path="movies/:id" element={<MovieDetailPage />} />
           <Route path="series" element={<SeriesPage />} />
           <Route path="series/:id" element={<SeriesDetailPage />} />
+          <Route path="kids" element={<KidsPage />} />
+          <Route path="anime" element={<AnimePage />} />
+          <Route path="explorar" element={<ExplorarPage />} />
           <Route path="search" element={<SearchPage />} />
           <Route path="favorites" element={<FavoritesPage />} />
           <Route path="settings" element={<SettingsPage />} />

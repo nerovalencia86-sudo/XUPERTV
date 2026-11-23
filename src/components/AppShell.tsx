@@ -2,39 +2,49 @@ import { useEffect } from 'react';
 import { NavLink, Outlet, useLocation, Link } from 'react-router-dom';
 import {
   Clapperboard,
+  Compass,
   Film,
   Heart,
-  Home,
   Search,
   Settings,
+  Smile,
+  Sparkles,
   Tv,
   Wifi,
+  Zap,
 } from 'lucide-react';
 import { useStore } from '../store';
 import { useClock } from '../hooks/useClock';
 import { useBackNavigation } from '../hooks/useBackNavigation';
 import { formatClock } from '../utils/format';
 
+// Menú idéntico al de la aplicación móvil de XuperTV
 const NAV_ITEMS = [
-  { to: '/', label: 'Inicio', icon: Home },
-  { to: '/live', label: 'En vivo', icon: Tv },
-  { to: '/movies', label: 'Películas', icon: Film },
-  { to: '/series', label: 'Series', icon: Clapperboard },
-  { to: '/favorites', label: 'Favoritos', icon: Heart },
-  { to: '/search', label: 'Buscar', icon: Search },
-  { to: '/settings', label: 'Ajustes', icon: Settings },
+  { to: '/live', label: 'TV', icon: Tv },
+  { to: '/', label: 'DESTACADOS', icon: Sparkles },
+  { to: '/movies', label: 'PELICULAS', icon: Film },
+  { to: '/series', label: 'SERIES', icon: Clapperboard },
+  { to: '/kids', label: 'KIDS', icon: Smile },
+  { to: '/anime', label: 'ANIME', icon: Zap },
+  { to: '/explorar', label: 'EXPLORAR', icon: Compass },
+  { to: '/favorites', label: 'FAVORITOS', icon: Heart },
+  { to: '/search', label: 'BUSCAR', icon: Search },
+  { to: '/settings', label: 'AJUSTES', icon: Settings },
 ];
 
 function sectionTitle(pathname: string): string {
-  if (pathname === '/') return 'Inicio';
-  if (pathname.startsWith('/live')) return 'En vivo';
-  if (pathname.startsWith('/movies/')) return 'Detalle de película';
-  if (pathname.startsWith('/movies')) return 'Películas';
-  if (pathname.startsWith('/series/')) return 'Detalle de serie';
-  if (pathname.startsWith('/series')) return 'Series';
-  if (pathname.startsWith('/favorites')) return 'Favoritos';
-  if (pathname.startsWith('/search')) return 'Buscar';
-  if (pathname.startsWith('/settings')) return 'Ajustes';
+  if (pathname === '/') return 'DESTACADOS';
+  if (pathname.startsWith('/live')) return 'TV EN VIVO';
+  if (pathname.startsWith('/movies/')) return 'DETALLE PELÍCULA';
+  if (pathname.startsWith('/movies')) return 'PELICULAS';
+  if (pathname.startsWith('/series/')) return 'DETALLE SERIE';
+  if (pathname.startsWith('/series')) return 'SERIES';
+  if (pathname.startsWith('/kids')) return 'KIDS';
+  if (pathname.startsWith('/anime')) return 'ANIME';
+  if (pathname.startsWith('/explorar')) return 'EXPLORAR';
+  if (pathname.startsWith('/favorites')) return 'FAVORITOS';
+  if (pathname.startsWith('/search')) return 'BUSCAR';
+  if (pathname.startsWith('/settings')) return 'AJUSTES';
   return 'XUPERTV';
 }
 
@@ -57,7 +67,7 @@ export function AppShell() {
     return () => window.clearTimeout(timer);
   }, [location.pathname]);
 
-  const sourceText = sourceLabel ?? (mode === 'demo' ? 'Contenido demo' : mode === 'm3u' ? 'Lista M3U' : 'Xtream Codes');
+  const sourceText = sourceLabel ?? (mode === 'demo' ? 'XuperTV VIP' : mode === 'm3u' ? 'Lista M3U' : 'Xtream Codes');
 
   return (
     <div className="app-shell">
@@ -78,7 +88,7 @@ export function AppShell() {
               className={({ isActive }) => `nav-item ${isActive ? 'is-active' : ''}`}
               data-focusable
             >
-              <item.icon size={21} strokeWidth={1.9} />
+              <item.icon size={20} strokeWidth={2} />
               <span>{item.label}</span>
             </NavLink>
           ))}
@@ -86,7 +96,7 @@ export function AppShell() {
 
         <div className="sidebar-foot">
           <span className="sidebar-dot" />
-          <span>TV · v0.1</span>
+          <span>VOD · UNLIMITED</span>
         </div>
       </aside>
 
@@ -98,7 +108,7 @@ export function AppShell() {
             <span>{sectionTitle(location.pathname)}</span>
           </div>
           <div className="topbar-right">
-            <span className="key-hint">← ↑ → ↓ mover · Enter abrir · Esc volver</span>
+            <span className="key-hint">← ↑ → ↓ navegar · Enter reproducir · Esc atrás</span>
             <span className="source-pill">
               <Wifi size={13} /> {sourceText}
             </span>
