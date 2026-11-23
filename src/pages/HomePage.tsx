@@ -50,6 +50,17 @@ export function HomePage() {
   const hasFavorites = favorites.length > 0;
   const hasCatalog = catalog.channels.length + catalog.movies.length + catalog.series.length > 0;
 
+  // Colecciones especiales
+  const animeItems = [
+    ...catalog.series.filter((s) => s.genres.includes('Anime')),
+    ...catalog.movies.filter((m) => m.genres.includes('Anime')),
+  ];
+  const kidsItems = [
+    ...catalog.movies.filter((m) => m.genres.includes('Kids')),
+    ...catalog.series.filter((s) => s.genres.includes('Kids')),
+  ];
+  const destacadas = catalog.movies.filter((m) => m.genres.includes('Destacados'));
+
   if (!hasCatalog) {
     return (
       <EmptyState
@@ -83,7 +94,7 @@ export function HomePage() {
           ]}
           description={featuredMovie.description}
           colors={featuredMovie.colors}
-          image="/assets/hero.png"
+          image={featuredMovie.posterUrl || "/assets/hero.png"}
           primaryLabel="Reproducir"
           onPrimary={() => navigate(`/watch/movie/${featuredMovie.id}`)}
           secondaryLabel="Ver detalles"
@@ -117,23 +128,55 @@ export function HomePage() {
 
         {catalog.channels.length > 0 ? (
           <Rail title="En vivo ahora" moreTo="/live">
-            {catalog.channels.slice(0, 8).map((channel) => (
+            {catalog.channels.slice(0, 10).map((channel) => (
               <ChannelCard key={channel.id} channel={channel} />
             ))}
           </Rail>
         ) : null}
 
+        {destacadas.length > 0 ? (
+          <Rail title="Destacados y Estrenos" moreTo="/movies">
+            {destacadas.slice(0, 12).map((movie) => (
+              <MovieCard key={movie.id} movie={movie} progress={movieProgress(movie.id)} />
+            ))}
+          </Rail>
+        ) : null}
+
+        {animeItems.length > 0 ? (
+          <Rail title="Anime y Animación Japonesa" moreTo="/series">
+            {animeItems.map((item) =>
+              'seasons' in item ? (
+                <SeriesCard key={item.id} series={item} />
+              ) : (
+                <MovieCard key={item.id} movie={item} progress={movieProgress(item.id)} />
+              )
+            )}
+          </Rail>
+        ) : null}
+
+        {kidsItems.length > 0 ? (
+          <Rail title="Kids e Infantil" moreTo="/movies">
+            {kidsItems.map((item) =>
+              'seasons' in item ? (
+                <SeriesCard key={item.id} series={item} />
+              ) : (
+                <MovieCard key={item.id} movie={item} progress={movieProgress(item.id)} />
+              )
+            )}
+          </Rail>
+        ) : null}
+
         {catalog.movies.length > 0 ? (
-          <Rail title="Películas destacadas" moreTo="/movies">
-            {catalog.movies.slice(0, 10).map((movie) => (
+          <Rail title="Películas para maratonear" moreTo="/movies">
+            {catalog.movies.slice(0, 12).map((movie) => (
               <MovieCard key={movie.id} movie={movie} progress={movieProgress(movie.id)} />
             ))}
           </Rail>
         ) : null}
 
         {catalog.series.length > 0 ? (
-          <Rail title="Series para maratonear" moreTo="/series">
-            {catalog.series.slice(0, 10).map((series) => (
+          <Rail title="Series completas" moreTo="/series">
+            {catalog.series.slice(0, 12).map((series) => (
               <SeriesCard key={series.id} series={series} />
             ))}
           </Rail>

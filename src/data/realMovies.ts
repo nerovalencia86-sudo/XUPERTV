@@ -48,7 +48,7 @@ export const realMovies: Movie[] = [
       "Action",
       "Adventure"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Después de los eventos devastadores de 'Avengers: Infinity War', el universo está en ruinas debido a las acciones de Thanos, el Titán Loco. Con la ayuda de los aliados que quedaron, los Vengadores deberán reunirse una vez más para intentar deshacer sus acciones y restaurar el orden en el universo de una vez por todas, sin importar cuáles son las consecuencias... Cuarta y última entrega de la saga \"Vengadores\".",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/769183ac-6b52-40ee-a5e4-131277ea3ada.jpg",
     "streamUrl": "/media/bunny.mp4",
@@ -105,7 +105,7 @@ export const realMovies: Movie[] = [
       "Drama",
       "History"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "El filme nos traslada a 1969 y nos presenta a Buddy: un niño de clase obrera, del norte de Belfast, que se siente feliz, amado y seguro. Su mundo es todo vida y diversión en las calles de una comunidad que permanece unida. Una comunidad donde todos sus familiares viven en la misma calle y donde es imposible perderse, porque todo el mundo en Belfast se conoce.\nPero, cuando los años sesenta tocan su fin, un caluroso mes de agosto convierte los sueños de infancia de Buddy en una pesadilla. El descontento social acumulado de pronto estalla en la propia calle de Buddy y la situación se intensifica rápidamente. Primero, un ataque enmascarado, luego disturbios y, por último, un conflicto que se extiende por toda la ciudad, avivando las llamas más allá de la capital. Católicos contra protestantes, los que hasta hace un instante eran vecinos cordiales y amorosos, se convierten de pronto en enemigos mortales.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/464626c0-62d2-4be1-8b3f-3764cb8c05fb.jpg",
     "streamUrl": "/media/bunny.mp4",
@@ -145,7 +145,7 @@ export const realMovies: Movie[] = [
       "Crime",
       "Thriller"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "An intelligence operative for a shadowy global peacekeeping agency races to stop a hacker from stealing its most valuable and dangerous weapon.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/a67c527c-fac5-40b9-81af-6f8629f12120.jpg",
     "streamUrl": "/media/bunny.mp4",
@@ -162,7 +162,7 @@ export const realMovies: Movie[] = [
     "genres": [
       "Comedy"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Barb and Star Go to Vista Del Mar, cuenta la historia de Barb y Star, dos mejores amigas que se deciden a salir de su pequeño pueblo del medio este por primera vez en su vida para irse de vacaciones a Vista Del Mar, Florida. Allí se encontrarán enredadas en aventuras y líos amorosos, y acabarán dando con un villano que planea asesinar a todo aquel que se encuentre en la ciudad.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/32b2d4b3-71d6-4700-be2b-d1ffefa54864.jpg",
     "streamUrl": "/media/bunny.mp4",
@@ -181,7 +181,7 @@ export const realMovies: Movie[] = [
       "Romance",
       "Drama"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Wild Mountain Thyme, dos jóvenes amantes de la Irlanda rural, cuyas familias se encuentran en disputa por una franja de terreno muy codiciada que separa sus granjas. Anthony se pasa el día trabajando en el campo, agotado por el constante menosprecio de su padre. Un día, su padre le amenaza con desheredarle y entregarle la granja familiar a su primo estadounidense Adam. La joven Rosemary, al principio, parece guardarle rencor a Anthony por las múltiples ocasiones en que este la avergonzó en la infancia, pero las chispas pronto saltarán entre ellos. Su madre Aoife se esfuerza por unir a las familias y apartar sus diferencias antes de que sea demasiado tarde.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/d13b7e4e-782d-4b74-951d-5c6733524a81.jpg",
     "streamUrl": "/media/bunny.mp4",
@@ -240,7 +240,7 @@ export const realMovies: Movie[] = [
       "Action",
       "Drama"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "En la Tierra Media, el Señor Oscuro Saurón ordenó a los Elfos que forjaran los Grandes Anillos de Poder. Tres para los reyes Elfos, siete para los Señores Enanos, y nueve para los Hombres Mortales. Pero Saurón también forjó, en secreto, el Anillo Único, que tiene el poder de esclavizar toda la Tierra Media. Con la ayuda de sus amigos y de valientes aliados, el joven hobbit Frodo emprende un peligroso viaje con la misión de destruir el Anillo Único. Pero el malvado Sauron ordena la persecución del grupo, compuesto por Frodo y sus leales amigos hobbits, un mago, un hombre, un elfo y un enano. La misión es casi suicida pero necesaria, pues si Sauron con su ejército de orcos lograra recuperar el Anillo, sería el final de la Tierra Media.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/c66368bf-a330-453b-9de5-0e5add2172b5.jpg",
     "streamUrl": "/media/bunny.mp4",
@@ -295,7 +295,7 @@ export const realMovies: Movie[] = [
       "Adventure",
       "Fantasy"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Bilbo y compañía se ven obligados a entrar en guerra contra una serie de combatientes y evitar que la Montaña Solitaria caiga en manos de una creciente oscuridad.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/83e09d7b-6084-4065-a9a3-39e71301bd12.jpg",
     "streamUrl": "/media/bunny.mp4",
@@ -314,7 +314,7 @@ export const realMovies: Movie[] = [
       "Adventure",
       "Fantasy"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Warcraft: es la nueva entrega de ciencia ficción que relata la historia ambientada en el Pacífico Reino de Azeroth el cual está a punto de entrar en guerra para enfrentar a unos terribles invasores, orcos guerreros que han dejado el mundo destruido buscando colonizar otro mundo. Luego de abrirse un portal que conecta con los dos mundos, un ejército se enfrenta a la destrucción, y el otro, a la extinción. Dos héroes, uno en cada bando, están a punto de chocar en un enfrentamiento que cambiará el destino de su familia, su pueblo y su hogar. Así empieza una espectacular saga de poder y sacrificio donde se descubren las numerosas caras de la guerra y donde cada uno lucha por lo suyo.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/1e8084e7-b1aa-4b47-8e58-f22dadccfda5.jpg",
     "streamUrl": "/media/bunny.mp4",
@@ -504,7 +504,7 @@ export const realMovies: Movie[] = [
     "genres": [
       "Documentary"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Sin descripción disponible.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/c91413a1-3167-42f2-8492-0565bfa11345",
     "streamUrl": "/media/bunny.mp4",
@@ -570,6 +570,206 @@ export const realMovies: Movie[] = [
     ]
   },
   {
+    "id": "5B11DE390C284E13822C69B8FEEF2F01",
+    "title": "Una mirada extendida a Grand Theft Auto VI",
+    "year": 2026,
+    "rating": 8.6,
+    "genres": [
+      "Animation",
+      "Short",
+      "Action",
+      "Crime"
+    ],
+    "duration": 26,
+    "description": "See an extended look at \"Grand Theft Auto VI\", the next evolution in the groundbreaking \"Grand Theft Auto\" series.",
+    "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/66fccee0-6777-466d-986d-392084787e4b",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#C4B5FD",
+      "#4C1D95"
+    ]
+  },
+  {
+    "id": "2E9654DAE70B41A2A3A478CF0C8482BC",
+    "title": "Jorge Polaco",
+    "year": 2026,
+    "rating": 5.0,
+    "genres": [
+      "Documentary"
+    ],
+    "duration": 105,
+    "description": "Sin descripción disponible.",
+    "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/ae59686d-76bf-4fab-8630-90085c1f4106",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#FCA5A5",
+      "#991B1B"
+    ]
+  },
+  {
+    "id": "4703AD0EE6034D6B84A44C2391A4D950",
+    "title": "(Tráiler)Expediente Warren: El último rito",
+    "year": 2025,
+    "rating": 5.0,
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "duration": 135,
+    "description": "Los investigadores paranormales Ed y Lorraine Warren se enfrentan a un último y aterrador caso en el que deben enfrentarse a misteriosas entidades.",
+    "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/7b940393-011f-4fae-b058-4feb7d569929",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#93C5FD",
+      "#1D4ED8"
+    ]
+  },
+  {
+    "id": "C614480E0FB54AB0B17C136B0A699B82",
+    "title": "(Tráiler)Weapons",
+    "year": 2025,
+    "rating": 7.8,
+    "genres": [
+      "Horror",
+      "Mystery"
+    ],
+    "duration": 128,
+    "description": "When all but one child from the same class mysteriously vanish on the same night at exactly the same time, a community is left questioning who or what is behind their disappearance.",
+    "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/2b2bf09e-a4fc-454a-9af3-9ef345369102",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#FCD34D",
+      "#78350F"
+    ]
+  },
+  {
+    "id": "108F00DD7590420CBEC3E1BBD496B0FF",
+    "title": "(Tráiler)Los tipos malos 2",
+    "year": 2025,
+    "rating": 5.0,
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Crime",
+      "Family",
+      "Mystery"
+    ],
+    "duration": 104,
+    "description": "Un grupo criminal reformado es sacado de su retiro para un último atraco por un sindicato del crimen femenino, desafiando su recién adquirido estatus de buenas personas.",
+    "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/a5200897-f81e-4b9f-84c9-a7e942ee1ac8",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#5EEAD4",
+      "#115E59"
+    ]
+  },
+  {
+    "id": "CDC0E12C278644C48C1D13733543C17A",
+    "title": "(Tráiler)Los 4 Fantásticos: Primeros pasos",
+    "year": 2025,
+    "rating": 5.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "duration": 115,
+    "description": "La primera familia de Marvel se enfrenta a su mayor desafío hasta la fecha. Obligados a equilibrar su papel de héroes con la fuerza de su vínculo familiar, deben defender la Tierra de un voraz dios del espacio llamado Galactus.",
+    "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/a718f764-6aaa-4ce9-aef5-6b3d8234e085",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#FDA4AF",
+      "#881337"
+    ]
+  },
+  {
+    "id": "3347AB546D664BE488D8DE2A2F6B5604",
+    "title": "(Tráiler)Pitufos",
+    "year": 2025,
+    "rating": 5.9,
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy",
+      "Family",
+      "Fantasy",
+      "Musical"
+    ],
+    "duration": 92,
+    "description": "Cuando Papá Pitufo es capturado por los malvados magos Razamel y Gargamel, Pitufina lidera a los Pitufos en una misión al mundo real para salvarlo.",
+    "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/ae02c9e6-76dc-47f5-89e1-869d9c1d89b7",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#7CFC8A",
+      "#0E7A5F"
+    ]
+  },
+  {
+    "id": "D95C70F85ED44B2EBADCE2E58AAF9A68",
+    "title": "(Tráiler) Superman",
+    "year": 2025,
+    "rating": 5.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "duration": 95,
+    "description": "Sigue al superhéroe titular mientras reconcilia su herencia con su educación humana. Es la encarnación de la verdad, la justicia y un mañana mejor en un mundo que ve la bondad como algo anticuado.",
+    "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/6fab5085-8562-442a-b066-8ecfaad2db5e",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#FFB86B",
+      "#B3352C"
+    ]
+  },
+  {
+    "id": "9A8F67A4BCD8428FA20E0435AB658F1D",
+    "title": "(Tráiler)F1: La película",
+    "year": 2025,
+    "rating": 7.9,
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "duration": 155,
+    "description": "Sigue a un piloto de Fórmula Uno que sale de su retiro para convertirse en mentor y formar equipo con un piloto más joven.",
+    "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/dfd989fe-1790-4b54-be0e-5133db5c86d5",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#7DD3FC",
+      "#1E3A8A"
+    ]
+  },
+  {
+    "id": "07A9CD23557A4A41A5F32C419D17675C",
+    "title": "(Tráiler) Lilo & Stitch",
+    "year": 2025,
+    "rating": 5.0,
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy",
+      "Drama",
+      "Family",
+      "Fantasy",
+      "Sci-Fi"
+    ],
+    "duration": 108,
+    "description": "Una solitaria niña hawaiana se hace amiga de un extraterrestre fugitivo y ayuda a sanar a su fragmentada familia.",
+    "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/b7a0bb41-b5c2-4f10-92ee-4019f1cc2586",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#F472B6",
+      "#7E22CE"
+    ]
+  },
+  {
     "id": "4EDDB74BB2714419887F62B903B01D90",
     "title": "Haz Que Regrese",
     "year": 2026,
@@ -583,8 +783,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/e656939e-721c-485d-bf71-78b9acae3b3e",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#C4B5FD",
-      "#4C1D95"
+      "#FDE68A",
+      "#B45309"
     ]
   },
   {
@@ -604,8 +804,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/62ab8d77-e392-404b-973c-8d794f0966e8",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCA5A5",
-      "#991B1B"
+      "#A7F3D0",
+      "#065F46"
     ]
   },
   {
@@ -624,8 +824,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/507e2a4c-b1bb-44db-ba07-4bcc02448c05",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#93C5FD",
-      "#1D4ED8"
+      "#C4B5FD",
+      "#4C1D95"
     ]
   },
   {
@@ -645,8 +845,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/734e96cd-6ccf-4e8c-adb5-d7a2137ff2a7",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCD34D",
-      "#78350F"
+      "#FCA5A5",
+      "#991B1B"
     ]
   },
   {
@@ -663,8 +863,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/e62e669a-2a17-4a4c-9b58-62cb8e77a26f",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#5EEAD4",
-      "#115E59"
+      "#93C5FD",
+      "#1D4ED8"
     ]
   },
   {
@@ -681,8 +881,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/2a63ed97-1644-4de2-b6ab-382af35a1fdc",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDA4AF",
-      "#881337"
+      "#FCD34D",
+      "#78350F"
     ]
   },
   {
@@ -700,8 +900,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/66b37c04-04ab-414a-9008-b661d9f809c7",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7CFC8A",
-      "#0E7A5F"
+      "#5EEAD4",
+      "#115E59"
     ]
   },
   {
@@ -723,8 +923,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/b0df5e4a-f8df-4385-89fb-557757b38b14",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FFB86B",
-      "#B3352C"
+      "#FDA4AF",
+      "#881337"
     ]
   },
   {
@@ -742,8 +942,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/b64a07fe-2c0f-4e1c-9952-eddda08fccfc",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7DD3FC",
-      "#1E3A8A"
+      "#7CFC8A",
+      "#0E7A5F"
     ]
   },
   {
@@ -761,8 +961,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/ecaa3cda-770c-43cd-9ffd-a3e01768cfd6",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#F472B6",
-      "#7E22CE"
+      "#FFB86B",
+      "#B3352C"
     ]
   },
   {
@@ -780,8 +980,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/c4d28bf1-89c9-42d8-be06-32b2e03265ec",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDE68A",
-      "#B45309"
+      "#7DD3FC",
+      "#1E3A8A"
     ]
   },
   {
@@ -798,8 +998,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/f8fa4136-3f04-4349-acc4-52a330603b44",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#A7F3D0",
-      "#065F46"
+      "#F472B6",
+      "#7E22CE"
     ]
   },
   {
@@ -816,8 +1016,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/d4433685-cf1a-4ec0-90f7-998dc7b25cb4",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#C4B5FD",
-      "#4C1D95"
+      "#FDE68A",
+      "#B45309"
     ]
   },
   {
@@ -833,8 +1033,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/c78459ad-2787-4f06-bfd5-68aaae2f2df5",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCA5A5",
-      "#991B1B"
+      "#A7F3D0",
+      "#065F46"
     ]
   },
   {
@@ -848,13 +1048,13 @@ export const realMovies: Movie[] = [
       "Adventure",
       "Anime"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Presentamos la película lanzada en el año 2011 conocida como Green Lantern Emerald Knights, es una película de animación directa al mercado doméstico que continuará la historia de «Linterna Verde: Primer vuelo». Será lanzada en mercado norteamericano en Junio de 2011.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/427498bf-fdd9-41e6-8f82-7ffd31650075.gif",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#93C5FD",
-      "#1D4ED8"
+      "#C4B5FD",
+      "#4C1D95"
     ]
   },
   {
@@ -865,15 +1065,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Comedy",
       "Adventure",
-      "Cartoon"
+      "Cartoon",
+      "Kids"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "En la ciudad de Londres, alguien está robando todas las joyas que encuentra alrededor de Scotland Yard. Y Red, una bella cantante, ha sido acusada como culpable. Tom y Jerry deberán ayudar a Sherlock Holmes a descubrir quién ha sido el verdadero ladrón y así resolver el caso.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/a8f90e70-e9ab-468b-a5ec-9c8edd8133f1.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCD34D",
-      "#78350F"
+      "#FCA5A5",
+      "#991B1B"
     ]
   },
   {
@@ -887,13 +1088,13 @@ export const realMovies: Movie[] = [
       "Action",
       "Adventure"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Ambientada dos años después de los acontecimientos acaecidos en la quinta temporada, un Steven de 16 años se enfrenta a un mundo repleto de novedades. Aunque cree que su papel como guardián de la Tierra ya ha terminado, una nueva amenaza se cierne sobre Beach City, por lo que el joven héroe tendrá que enfrentarse a su mayor desafío hasta la fecha.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/8e3ac53e-eb2a-11e9-8b9a-003048de22c4.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#5EEAD4",
-      "#115E59"
+      "#93C5FD",
+      "#1D4ED8"
     ]
   },
   {
@@ -914,8 +1115,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/2cbc9d24-2988-4a7b-af19-90c6589d6e01",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDA4AF",
-      "#881337"
+      "#FCD34D",
+      "#78350F"
     ]
   },
   {
@@ -927,15 +1128,16 @@ export const realMovies: Movie[] = [
       "Action",
       "Adventure",
       "Comedy",
-      "Cartoon"
+      "Cartoon",
+      "Kids"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Dos escolares traviesos hipnotizan al director del colegio para convertirlo en su héroe de cómic: Capitán Calzoncillos. Jorge y Berto son super buenos amigos y pasan sus días creando cómics y soñando con bromas. Un día, hipnotizan accidentalmente al 'dire' de su escuela, el Sr. Krupp, que a partir de entonces se cree que es el Capitán Calzoncillos, un súperhéroe malhumorado cuyo traje consiste en ropa interior y una capa. Por si esto no fuera suficientemente malo, su nuevo maestro es un malvado científico maldito dispuesto a exigir su venganza en la escuela. Jorge, Berto y el Capitán Calzoncillos deberán entonces unirse para frustrar su malvado plan.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/a93b993c-baf5-4bda-9ff6-0ff60569cf45.gif",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7CFC8A",
-      "#0E7A5F"
+      "#5EEAD4",
+      "#115E59"
     ]
   },
   {
@@ -949,13 +1151,13 @@ export const realMovies: Movie[] = [
       "Drama",
       "Music"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Una divorciada de espíritu libre (Moore) pasa los días trabajando en una oficina. Por la noche se desata bailando en las diferentes discotecas de Los Ángeles. Cuando encuentra a Arnold (Turturro), su vida cambia radicalmente al verse inmersa en un inesperado romance.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/110ad392-98b9-46f7-a6a0-330c98fc492d.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FFB86B",
-      "#B3352C"
+      "#FDA4AF",
+      "#881337"
     ]
   },
   {
@@ -968,13 +1170,13 @@ export const realMovies: Movie[] = [
       "Crime",
       "Thriller"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Cuando Jack Stanfield (Interpretado por Harrison Ford), un especialista en seguridad informática de un banco, regresa a casa tras un día de trabajo para estar con su mujer Beth (Interpretada por Virginia Madsen) y sus hijos, suele suspirar aliviado. Le consuela estar lejos de las omnipresentes cámaras, de los controles de identidad, de las constantes tareas de mantenimiento y actualización de los complejos firewalls electrónicos y otras medidas de defensa, que se han convertido en práctica normal en esta era en la que todo se hace a través de la red: la comunicación, el comercio y el crimen. Pero lo que Jack no puede sospechar es que, al volver a casa, cada uno de sus movimientos es observado furtivamente y que pronto su vida y la de su familia se convertirán en una pesadilla.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/b04faa67-4cc8-4a5c-a944-2c7507e29adf.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7DD3FC",
-      "#1E3A8A"
+      "#7CFC8A",
+      "#0E7A5F"
     ]
   },
   {
@@ -987,13 +1189,13 @@ export const realMovies: Movie[] = [
       "Adventure",
       "Fantasy"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "En Avatar: El camino del agua, nos trasladamos diez años después de la primera batalla de Pandora entre los Na’vi y los humanos, Jake Sully (Interpretado por Sam Worthington) vive tranquilamente con su familia y su tribu. Él y Ney’tiri han formado una familia y hacen todo lo posible por permanecer juntos, debido a los problemas matrimoniales y a los roles que cada uno debe que desempeñar dentro de la tribu. Sin embargo, deben abandonar su hogar y explorar diferentes e inhospitas regiones de Pandora, adentrándose en el mar y haciendo pactos con otros Na’vi de dichas regiones.\nCuando una antigua amenaza resurge, Jake debe volver a librar una difícil guerra contra los humanos. Pese a la adversidad, Jake acaba haciendo nuevos aliados, algunos de los cuales ya viven entre los Na’vi y otros con nuevos avatares. Con una nueva guerra en marcha, Jake y Ney’tiri tendrán que hacer todo lo posible para permanecer juntos y cuidar de su familia y su tribu.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/de18eaa2-47d0-4d76-9ff1-4c6bd611079c.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#F472B6",
-      "#7E22CE"
+      "#FFB86B",
+      "#B3352C"
     ]
   },
   {
@@ -1007,13 +1209,13 @@ export const realMovies: Movie[] = [
       "Action",
       "Drama"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Año 2154. Jake Sully (Sam Worthington), un ex-marine condenado a vivir en una silla de ruedas, sigue siendo, a pesar de ello, un auténtico guerrero. Precisamente por ello ha sido designado para ir a Pandora, donde algunas empresas están extrayendo un mineral extraño que podría resolver la crisis energética de la Tierra. Para contrarrestar la toxicidad de la atmósfera de Pandora, se ha creado el programa Avatar, gracias al cual los seres humanos mantienen sus conciencias unidas a un avatar: un cuerpo biológico controlado de forma remota que puede sobrevivir en el aire letal. Esos cuerpos han sido creados con ADN humano, mezclado con ADN de los nativos de Pandora, los Na'vi. Convertido en avatar, Jake puede caminar otra vez. Su misión consiste en infiltrarse entre los Na'vi, que se han convertido en el mayor obstáculo para la extracción del mineral. Pero cuando Neytiri, una bella Na'vi (Zoe Saldana), salva la vida de Jake, todo cambia: Jake, tras superar ciertas pruebas, es admitido en su clan. Mientras tanto, los hombres esperan los resultados de la misión de Jake.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/ded120dc-59db-4ba3-99c4-df15a7d65057.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDE68A",
-      "#B45309"
+      "#7DD3FC",
+      "#1E3A8A"
     ]
   },
   {
@@ -1026,13 +1228,13 @@ export const realMovies: Movie[] = [
       "Drama",
       "Comedy"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Augusto es un artista que busca su lugar y encuentra la oportunidad de conquistar a la gente cuando se convierte en «Bingo», un payaso de televisión en uno de los programas de televisón líder de audiencia para los niños en los años 80. Con maquillaje, Augusto se convierte en un éxito absoluto.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/83a1e787-1a8f-4244-bf9b-272d1f92ce94.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#A7F3D0",
-      "#065F46"
+      "#F472B6",
+      "#7E22CE"
     ]
   },
   {
@@ -1051,8 +1253,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/1425d0e9-f393-44f1-ad8e-3e0f70123df2",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#C4B5FD",
-      "#4C1D95"
+      "#FDE68A",
+      "#B45309"
     ]
   },
   {
@@ -1070,8 +1272,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/e61eb544-8ec4-4e3b-b9d6-1c4dfbcb01d3",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCA5A5",
-      "#991B1B"
+      "#A7F3D0",
+      "#065F46"
     ]
   },
   {
@@ -1089,8 +1291,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/7117cdb8-e34e-4af9-bb84-eff94b06e41d",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#93C5FD",
-      "#1D4ED8"
+      "#C4B5FD",
+      "#4C1D95"
     ]
   },
   {
@@ -1107,8 +1309,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/532c84b2-c9ae-4abc-a8a2-28d55d9adfb3",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCD34D",
-      "#78350F"
+      "#FCA5A5",
+      "#991B1B"
     ]
   },
   {
@@ -1127,8 +1329,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/bb4780b3-7d6d-4f85-837c-27733f0f2444",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#5EEAD4",
-      "#115E59"
+      "#93C5FD",
+      "#1D4ED8"
     ]
   },
   {
@@ -1145,8 +1347,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/c4f3f5f9-a58e-4124-8f0e-258f07ed41a6",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDA4AF",
-      "#881337"
+      "#FCD34D",
+      "#78350F"
     ]
   },
   {
@@ -1163,8 +1365,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/a641267a-f19a-4cf0-b59a-f76686449f44",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7CFC8A",
-      "#0E7A5F"
+      "#5EEAD4",
+      "#115E59"
     ]
   },
   {
@@ -1181,8 +1383,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/64606130-f46e-48be-b903-ddc1ff2e3b4b",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FFB86B",
-      "#B3352C"
+      "#FDA4AF",
+      "#881337"
     ]
   },
   {
@@ -1199,8 +1401,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/88fce0bb-9c05-41c9-b65e-7375bc42734f",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7DD3FC",
-      "#1E3A8A"
+      "#7CFC8A",
+      "#0E7A5F"
     ]
   },
   {
@@ -1212,13 +1414,13 @@ export const realMovies: Movie[] = [
       "Documentary",
       "Adventure"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Follows National Geographic Explorer Bertie Gregory as he returns to the Canadian Arctic to reconnect with a wolf pack facing a brutal winter, capturing a rare hunt against a bull moose and other Arctic wildlife.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/3e650586-e42f-47ab-9e0c-5d0223642f63",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#F472B6",
-      "#7E22CE"
+      "#FFB86B",
+      "#B3352C"
     ]
   },
   {
@@ -1239,8 +1441,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/0e47c38c-c72f-4d0b-8d77-865326f76d16",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDE68A",
-      "#B45309"
+      "#7DD3FC",
+      "#1E3A8A"
     ]
   },
   {
@@ -1252,13 +1454,13 @@ export const realMovies: Movie[] = [
       "Comedy",
       "Drama"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Un grupo de alborotadores y abusones son obligados a quedarse en el colegio por las noches para así conseguir aprobar los exámenes que les permitan finalizar sus estudios de bachillerato.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/cca3aab7-8c54-4400-ba9f-01194a014e3a.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#A7F3D0",
-      "#065F46"
+      "#F472B6",
+      "#7E22CE"
     ]
   },
   {
@@ -1277,8 +1479,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/dad9aa66-54a5-4b78-9d55-0ce90a9c9980",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#C4B5FD",
-      "#4C1D95"
+      "#FDE68A",
+      "#B45309"
     ]
   },
   {
@@ -1294,8 +1496,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/9409f048-1f14-4eab-8a12-4da61dadfe0f",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCA5A5",
-      "#991B1B"
+      "#A7F3D0",
+      "#065F46"
     ]
   },
   {
@@ -1312,8 +1514,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/edc17a71-49a4-4b97-86d1-d3715ec23a89",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#93C5FD",
-      "#1D4ED8"
+      "#C4B5FD",
+      "#4C1D95"
     ]
   },
   {
@@ -1329,8 +1531,8 @@ export const realMovies: Movie[] = [
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/a314371a-7af8-4078-8c7f-9b2ea6f4bd86",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCD34D",
-      "#78350F"
+      "#FCA5A5",
+      "#991B1B"
     ]
   },
   {
@@ -1341,15 +1543,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Horror",
       "Mystery",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "duration": 77,
     "description": "Un grupo de estudiantes universitarios entra en una fraternidad exclusiva, pero pronto se dan cuenta de que hay más en juego de lo que podrían haber imaginado.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/0064a6da-4b36-4aad-a2ed-e685957823d1",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#5EEAD4",
-      "#115E59"
+      "#93C5FD",
+      "#1D4ED8"
     ]
   },
   {
@@ -1361,15 +1564,16 @@ export const realMovies: Movie[] = [
       "Action",
       "Crime",
       "Drama",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "duration": 106,
     "description": "Un estudiante de último año en una universidad de la liga de la hiedra, que depende de becas y trabaja de forma paralela, es aceptado en la sociedad secreta The Skulls pero no es lo que él pensaba, y tiene un precio.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/de08aa2e-35bf-47a9-b73b-81dd27aef165",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDA4AF",
-      "#881337"
+      "#FCD34D",
+      "#78350F"
     ]
   },
   {
@@ -1380,15 +1584,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Fantasy",
       "Horror",
-      "Drama"
+      "Drama",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Susie Bannion (Dakota Johnson) es una joven estadounidense que viaja a Berlín para cursar sus estudios de danza en una de las escuelas más prestigiosas del mundo, dirigida por Madame Blanc (Tilda Swinton). El mismo día en el que ingresa en la escuela, una de las alumnas, recientemente expulsada, es asesinada. No se trata de un hecho aislado, lo que hace sospechar a la brillante estudiante sobre la implicación de la escuela en los homicidios. Su desconfianza aumenta cuando una compañera le cuenta que antes de que Pat muriera, ésta le confesó que conocía un terrorífico secreto. Remake del clásico giallo homónimo, dirigido por Dario Argento en 1977.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/bf5d8acc-97e5-11e9-8f92-003048de22c4.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7CFC8A",
-      "#0E7A5F"
+      "#5EEAD4",
+      "#115E59"
     ]
   },
   {
@@ -1400,15 +1605,16 @@ export const realMovies: Movie[] = [
       "Drama",
       "Horror",
       "Mystery",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "duration": 100,
     "description": "Un hombre acepta una invitación para ir a cenar a casa de su exmujer, lo cual reabre viejas herida y crea nuevas tensiones.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/fb10d0e9-8314-4aa6-80cc-f17e8bbea156",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FFB86B",
-      "#B3352C"
+      "#FDA4AF",
+      "#881337"
     ]
   },
   {
@@ -1420,15 +1626,16 @@ export const realMovies: Movie[] = [
       "Drama",
       "Fantasy",
       "Horror",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "duration": 101,
     "description": "Una recién llegada a una escuela católica entabla relación con un trío de adolescentes marginadas que practican brujería y evocan hechizos y maldiciones contra quienes las enfadan.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/ae8d3041-ed3e-40df-a1f7-0f55f5552c81",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7DD3FC",
-      "#1E3A8A"
+      "#7CFC8A",
+      "#0E7A5F"
     ]
   },
   {
@@ -1438,15 +1645,16 @@ export const realMovies: Movie[] = [
     "rating": 6.5,
     "genres": [
       "Comedy",
-      "Horror"
+      "Horror",
+      "Destacados"
     ],
     "duration": 99,
     "description": "Un adolescente común y corriente descubre que su familia es parte de un horrible culto de orgías para la élite social.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/6919ea50-5b1d-4855-bb92-83591f9c1ed5",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#F472B6",
-      "#7E22CE"
+      "#FFB86B",
+      "#B3352C"
     ]
   },
   {
@@ -1457,15 +1665,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Drama",
       "Mystery",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "duration": 159,
     "description": "A Manhattan doctor embarks on a bizarre, night-long odyssey after his wife's admission of unfulfilled longing.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/0a3b7b9c-fcb7-435e-8dad-f6ee676d5742",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDE68A",
-      "#B45309"
+      "#7DD3FC",
+      "#1E3A8A"
     ]
   },
   {
@@ -1474,15 +1683,16 @@ export const realMovies: Movie[] = [
     "year": 2025,
     "rating": 4.7,
     "genres": [
-      "Horror"
+      "Horror",
+      "Destacados"
     ],
     "duration": 95,
     "description": "En la víspera de Navidad, un maníaco escapado regresa a su hogar de la infancia, que ahora es una casa de fraternidad, y comienza a asesinar a las hermanas de la fraternidad una a una.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/629ed73e-ea69-4a86-92fa-f6b986d3d750",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#A7F3D0",
-      "#065F46"
+      "#F472B6",
+      "#7E22CE"
     ]
   },
   {
@@ -1493,15 +1703,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Mystery",
       "Horror",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Las integrantes de una fraternidad femenina que asisten a Hawthorne College se preparan para las vacaciones navideñas. De pronto algunas de ellas empiezan a recibir llamadas de un acosador. Todo se complica cuando una de ellas desaparece. Protagonizada por Imogen Poots, Aleyse Shannon, Brittany O’Grady, Lily Donoghue y Caleb Eberhardt, esta nueva versión de Negra navidad seguirá la tendencia actual de mujeres empoderadas, pues el asesino descubrirá que las jóvenes de esta generación no están dispuestas a convertirse en víctimas desafortunadas mientras luchan hasta el final por mantenerse con vida.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/bf142001-232b-44f5-8b4e-60c994928393.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#C4B5FD",
-      "#4C1D95"
+      "#FDE68A",
+      "#B45309"
     ]
   },
   {
@@ -1511,15 +1722,16 @@ export const realMovies: Movie[] = [
     "rating": 5.8,
     "genres": [
       "Horror",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "duration": 92,
     "description": "Held in a remote police station, a mysterious stranger takes over the minds and souls of everyone inside.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/c9ff88aa-06cf-451f-8983-641c6d6b99e8",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCA5A5",
-      "#991B1B"
+      "#A7F3D0",
+      "#065F46"
     ]
   },
   {
@@ -1528,15 +1740,16 @@ export const realMovies: Movie[] = [
     "year": 2025,
     "rating": 8.1,
     "genres": [
-      "Horror"
+      "Horror",
+      "Destacados"
     ],
     "duration": 122,
     "description": "Una adolescente es poseída por una entidad malévola y su madre obtiene la ayuda de dos curas para que la liberen.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/0b73653e-861f-4462-8f32-1d3c4dac6140",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#93C5FD",
-      "#1D4ED8"
+      "#C4B5FD",
+      "#4C1D95"
     ]
   },
   {
@@ -1547,15 +1760,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Horror",
       "Mystery",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "duration": 112,
     "description": "Los investigadores de lo paranormal, Ed y Lorraine Warren, trabajan para ayudar a una familia aterrorizada por una presencia oscura en su granja.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/624f4698-6019-4f84-8890-26cba4456242",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCD34D",
-      "#78350F"
+      "#FCA5A5",
+      "#991B1B"
     ]
   },
   {
@@ -1566,15 +1780,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Action",
       "Fantasy",
-      "Horror"
+      "Horror",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Como Constantine, Keanu Reeves (Matrix), lucha contra un nuevo inframundo en este thriller impresionante y sobrenatural basado en los personajes de DC Comics/ Vertigo y las novelas de Hellblazer Graphic. Situada en una Ciudad de Ángeles donde las fronteras del mundo espiritual se han roto y el infierno está suelto. Agua bendita, un lanzallamas con aliento de dragón, un rifle con un crucifijo tallado. Armado con estos elementos y ayudado por una intrépida policía (Rachel Weisz), John Constantine, es un guerrero espiritual llevado a una guerra apocalíptica. Agradece que Constantine esté de tu lado.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/f218cff3-10d3-4757-bffb-8b006885f1a4.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#5EEAD4",
-      "#115E59"
+      "#93C5FD",
+      "#1D4ED8"
     ]
   },
   {
@@ -1585,15 +1800,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Horror",
       "Mystery",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Una familia busca evitar que los espíritus malignos atrapen a su hijo comatoso en un reino llamado The Further.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/45e8fbbf-2b3e-49f5-bcbe-7024f0259e88.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDA4AF",
-      "#881337"
+      "#FCD34D",
+      "#78350F"
     ]
   },
   {
@@ -1602,15 +1818,16 @@ export const realMovies: Movie[] = [
     "year": 2025,
     "rating": 7.5,
     "genres": [
-      "Horror"
+      "Horror",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "The Evil Dead trata de cinco chicos que van a pasar el fin de semana a una cabaña perdida en un espeso bosque en las montañas de Tennessee. Una vez instalados, y cuando se encuentran cenando, la trampilla que da acceso al sótano se abre de golpe. Extrañados, deciden bajar a investigar. Allí encuentran un magnetófono, un extraño cuchillo ritual y un libro antiquísimo.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/ecadeb82-9ffb-4483-9f22-138702791556.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7CFC8A",
-      "#0E7A5F"
+      "#5EEAD4",
+      "#115E59"
     ]
   },
   {
@@ -1620,15 +1837,16 @@ export const realMovies: Movie[] = [
     "rating": 7.7,
     "genres": [
       "Comedy",
-      "Horror"
+      "Horror",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "The Evil Dead 2 trata sobre cinco chicos que van a pasar el fin de semana a una cabaña perdida en un espeso bosque en las montañas de Tennessee. Una vez instalados, y cuando se encuentran cenando, la trampilla que da acceso al sótano se abre de golpe. Extrañados, deciden bajar a investigar. Allí encuentran un magnetófono, un extraño cuchillo ritual y un libro antiquísimo.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/fcc5c6b2-2627-43f0-98a4-1121166820e0.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FFB86B",
-      "#B3352C"
+      "#FDA4AF",
+      "#881337"
     ]
   },
   {
@@ -1637,15 +1855,16 @@ export const realMovies: Movie[] = [
     "year": 2026,
     "rating": 6.6,
     "genres": [
-      "Horror"
+      "Horror",
+      "Destacados"
     ],
     "duration": 110,
     "description": "Tras de la pérdida de su esposo, una mujer busca consuelo con sus suegros. A medida que uno a uno se transforman en deaítas, ella llega a descubrir que los votos que tomó en la vida - perviven incluso en la muerte.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/84928a89-0f20-4f2a-8909-ec1e778723de",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7DD3FC",
-      "#1E3A8A"
+      "#7CFC8A",
+      "#0E7A5F"
     ]
   },
   {
@@ -1657,15 +1876,16 @@ export const realMovies: Movie[] = [
       "Drama",
       "Horror",
       "Mystery",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "duration": 127,
     "description": "Cosas extrañas comienzan a suceder en casa de los Graham tras la muerte de la abuela y matriarca, que deja en herencia su casa a su hija Annie. Annie Graham, una galerista casada y con dos hijos, no tuvo una infancia demasiado feliz junto a su madre, y cree que la muerte de ésta puede hacer que pase página. Pero todo se complica cuando su hija menor comienza a ver figuras fantasmales, que también empiezan a aparecer ante su hermano.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/3f93667f-3baf-4c0c-9c02-0bab36c183b3",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#F472B6",
-      "#7E22CE"
+      "#FFB86B",
+      "#B3352C"
     ]
   },
   {
@@ -1674,15 +1894,16 @@ export const realMovies: Movie[] = [
     "year": 2025,
     "rating": 6.6,
     "genres": [
-      "Horror"
+      "Horror",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "La historia de la herencia de un chamán en Tailandia del Nordeste. Lo que podría estar poseyendo a un miembro de la familia puede no ser la Diosa que se imaginan que es.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/eff9f2b0-3b57-44cf-b86b-bd50a3fc3fd8.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDE68A",
-      "#B45309"
+      "#7DD3FC",
+      "#1E3A8A"
     ]
   },
   {
@@ -1691,15 +1912,16 @@ export const realMovies: Movie[] = [
     "year": 2025,
     "rating": 7.0,
     "genres": [
-      "Horror"
+      "Horror",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "En un remoto pueblo, dos hermanos encuentran a un hombre infectado por el demonio a punto de dar a luz al mismísimo mal. Deciden deshacerse del hombre, pero sólo consiguen extender el caos.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/857dd516-d2b3-4331-bdfd-86ba010e963c.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#A7F3D0",
-      "#065F46"
+      "#F472B6",
+      "#7E22CE"
     ]
   },
   {
@@ -1709,15 +1931,16 @@ export const realMovies: Movie[] = [
     "rating": 5.0,
     "genres": [
       "Adventure",
-      "Drama"
+      "Drama",
+      "Destacados"
     ],
     "duration": 96,
     "description": "En medio del mar, Wirpul y su medio hermano Candi luchan por sobrevivir cuando una tormenta inesperada se convierte en el huracán Otis, un huracán de categoría 5, frente a las costas de Acapulco.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/0ecab102-806d-4b8e-bfde-dc5fff4b0683",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#C4B5FD",
-      "#4C1D95"
+      "#FDE68A",
+      "#B45309"
     ]
   },
   {
@@ -1728,15 +1951,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Action",
       "Sci-Fi",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "duration": 118,
     "description": "En un mundo postapocalíptico, un virus aniquila a la humanidad. Los supervivientes se enfrentan a unos carroñeros errantes llamados Segadores. El protagonista, Hig, un piloto, sobrevivió a la gripe pero perdió a su mujer.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/cd7f3d4b-2737-4767-bff8-0f376350b3ee",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCA5A5",
-      "#991B1B"
+      "#A7F3D0",
+      "#065F46"
     ]
   },
   {
@@ -1746,15 +1970,16 @@ export const realMovies: Movie[] = [
     "rating": 8.0,
     "genres": [
       "Action",
-      "Adventure"
+      "Adventure",
+      "Destacados"
     ],
     "duration": 145,
     "description": "Tras el Día del Juicio Final, Peter Parker intenta centrarse en la universidad y abandonar a Spider-Man. Cuando una nueva amenaza pone en peligro a sus amigos, debe romper su promesa y volver al traje.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/e056f814-3448-43a2-aa2b-af26440e44d5",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#93C5FD",
-      "#1D4ED8"
+      "#C4B5FD",
+      "#4C1D95"
     ]
   },
   {
@@ -1766,15 +1991,16 @@ export const realMovies: Movie[] = [
       "Crime",
       "Drama",
       "Mystery",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "duration": 117,
     "description": "Tras un inquietante accidente, la exitosa autora Verity Crawford no puede escribir. Lowen Ashleigh es contratada como su escritora fantasma, pero descubre verdades inquietantes sobre los Crawford mientras vive con ellos.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/7cb9409c-112e-49c1-b035-06e74245e4ba",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCD34D",
-      "#78350F"
+      "#FCA5A5",
+      "#991B1B"
     ]
   },
   {
@@ -1785,15 +2011,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Action",
       "Adventure",
-      "Comedy"
+      "Comedy",
+      "Destacados"
     ],
     "duration": 126,
     "description": "Basado en los icónicos automóviles de juguete creados en 1953.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/082e9a73-0e40-497a-9fe3-802c79acfad2",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#5EEAD4",
-      "#115E59"
+      "#93C5FD",
+      "#1D4ED8"
     ]
   },
   {
@@ -1804,15 +2031,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Adventure",
       "Drama",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "duration": 98,
     "description": "Las mejores amigas Grace Caroline Currey y Virginia Gardner retoman sus papeles. Sus conocimientos de escalada y su determinación para sobrevivir se ponen a prueba en situaciones de riesgo en lo alto de una torre de radio.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/ac5d549f-dacf-42ca-a6a6-340d18e0ed76",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDA4AF",
-      "#881337"
+      "#FCD34D",
+      "#78350F"
     ]
   },
   {
@@ -1823,15 +2051,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Drama",
       "Romance",
-      "Sport"
+      "Sport",
+      "Destacados"
     ],
     "duration": 101,
     "description": "Una joven mecánica finge ser novia del piloto más escandaloso para proteger su imagen, pero en secreto busca su oportunidad de correr al volante.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/5e389d1d-15d9-4bda-8353-5be6bdac75e6",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7CFC8A",
-      "#0E7A5F"
+      "#5EEAD4",
+      "#115E59"
     ]
   },
   {
@@ -1842,15 +2071,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Animation",
       "Drama",
-      "Family"
+      "Family",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "La novia cadáver 2005,Ambientada en un pueblecito europeo en el si-glo XIX, esta película de animación fotograma a fotograma cuenta la historia de Victor (a quien pone voz Johnny Depp), un joven que es llevado de repente al infierno, donde se casa con una misteriosa Novia Cadáver (con la voz de Helena Bonham Carter), mientras que su verdadera novia, Victoria (a quien pone voz Emily Watson) espera en el mundo de los vivos. A pesar de que la tierra de los muertos resulta ser más colorista que su estricta edu-cación victoriana, Victor aprende que no hay nada en este mundo, ni en el siguiente, que pueda separarle de su único y verdadero amor. Es un cuento de optimismo, romance y una “otra vida” muy animada, contada con el clásico estilo Tim Burton.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/f378e543-afc7-447e-81a9-3715cfa66967.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FFB86B",
-      "#B3352C"
+      "#FDA4AF",
+      "#881337"
     ]
   },
   {
@@ -1861,15 +2091,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Horror",
       "Mystery",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "duration": 106,
     "description": "La franquicia de terror regresa a sus raíces sobrenaturales. Un nuevo protagonista enfrenta apariciones misteriosas que van mucho más allá de los fenómenos clásicos de fantasmas. El mal encuentra nuevas formas de entrar a la realidad.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/5751e086-0f82-4607-a46d-919be00d2c80",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7DD3FC",
-      "#1E3A8A"
+      "#7CFC8A",
+      "#0E7A5F"
     ]
   },
   {
@@ -1880,15 +2111,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Comedy",
       "Fantasy",
-      "Romance"
+      "Romance",
+      "Destacados"
     ],
     "duration": 130,
     "description": "Una familia multigeneracional de brujas, condenada a no tener amor durante siglos, intenta romper el hechizo enfrentándose a oscuros secretos y sacrificándose unas por otras.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/45649bcd-0666-4789-abdb-681e72ffb5a4",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#F472B6",
-      "#7E22CE"
+      "#FFB86B",
+      "#B3352C"
     ]
   },
   {
@@ -1901,15 +2133,16 @@ export const realMovies: Movie[] = [
       "Drama",
       "Crime",
       "Thriller",
-      "Mystery"
+      "Mystery",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "The lonely teenager Brendan finds his former girlfriend Emily dead in the entrance of a tunnel of sewage and recalls her phone call two days ago, when she said to him that she was in trouble. Brendan, who still loved Emily, met bad elements of his high-school trying to contact her, and when he succeeded, she told him that she was OK. He hides her body in the tunnel and decides to investigate the meaning and connection of four words, including \"brick\" and \"pin\", that Emily told him to find who killed her. Using the support of his nerd friend Brain, he successively meets the small time drug dealers Kara, Dode, Brad Bramish, Laura and Tugger, to reach the teenager powerful drug dealer The Pin. Slowly, Brendan unravels the motives why Emily was killed and plots a revenge.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/ec443f6d-eca9-4507-ba82-5a38edf75959.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDE68A",
-      "#B45309"
+      "#7DD3FC",
+      "#1E3A8A"
     ]
   },
   {
@@ -1921,15 +2154,16 @@ export const realMovies: Movie[] = [
       "Animation",
       "Action",
       "Crime",
-      "Anime"
+      "Anime",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "The year is 2071. Following a terrorist bombing, a deadly virus is released on the populace of Mars and the government has issued a 300 million woo-long reward, the largest bounty in history, for the capture of whoever is behind it. The bounty hunter crew of the spaceship Bebop; Spike, Faye, Jet and Ed, take the case with hopes of cashing in the bounty. However, the mystery surrounding the man responsible, Vincent, goes deeper than they ever imagined, and they aren't the only ones hunting him. The original creators of the virus have dispatched Electra to deal with Vincent and take out anyone who may stumble on the truth behind him. As the hunt for the man with no past and no future continues to escalate, they begin to question what about the world is reality and what is a dream as the line between sanity and insanity becomes more apparent.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/5b37008e-9516-4992-bfb2-9dc865a6eeae.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#A7F3D0",
-      "#065F46"
+      "#F472B6",
+      "#7E22CE"
     ]
   },
   {
@@ -1940,15 +2174,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Comedy",
       "Drama",
-      "Sci-Fi"
+      "Sci-Fi",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Kate Dibiasky (Jennifer Lawrence), an astronomy grad student, and her professor Dr. Randall Mindy (Leonardo DiCaprio) make an astounding discovery of a comet orbiting within the solar system. The problem - it's on a direct collision course with Earth. The other problem? No one really seems to care. Turns out warning mankind about a planet-killer the size of Mount Everest is an inconvenient fact to navigate. With the help of Dr. Oglethorpe (Rob Morgan), Kate and Randall embark on a media tour that takes them from the office of an indifferent President Orlean (Meryl Streep) and her sycophantic son and Chief of Staff, Jason (Jonah Hill), to the airwaves of The Daily Rip, an upbeat morning show hosted by Brie (Cate Blanchett) and Jack (Tyler Perry). With only six months until the comet makes impact, managing the 24-hour news cycle and gaining the attention of the social media obsessed public before it's too late proves shockingly comical - what will it take to get the world to just look up?.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/c24f2fad-fb67-43dc-beaa-dd00b081688a.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#C4B5FD",
-      "#4C1D95"
+      "#FDE68A",
+      "#B45309"
     ]
   },
   {
@@ -1959,15 +2194,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Drama",
       "Action",
-      "Crime"
+      "Crime",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Jack Ryan is back and this time the bad guys are in his own government. When Admiral James Greer becomes sick with cancer, Ryan is appointed acting CIA Deputy Director of Intelligence. Almost before he can draw a breath in his new position, one of the president's closest friends and his family are murdered in their sleep by what appears to by drug cartels. Ryan is called in to investigate, but unknown to him the CIA has already sent a secret field operative to lead an illegal paramilitary force in Colombia against cartels. Things get even more complicated when his team is set up and he loses an agent in the field and a friend of his wife's, who was the murdered agent's secretary, is murdered that same day. Ryan must then risk not only his career, but his life to expose the truth behind the mystery.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/a7a92823-fe77-49aa-a9b3-29b003596f2c.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCA5A5",
-      "#991B1B"
+      "#A7F3D0",
+      "#065F46"
     ]
   },
   {
@@ -1980,15 +2216,16 @@ export const realMovies: Movie[] = [
       "Drama",
       "Horror",
       "Thriller",
-      "Mystery"
+      "Mystery",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "In a massive, mysterious chamber, fifty strangers awaken to find themselves trapped with no memory of how they got there. Every two minutes, one of them must die... Executed by an electrical pulse generated from a source within the chamber. At first the attacks seem random, but, soon the strangers realize that they, as a group, have the power to decide who will be the next to be killed: by the power of the vote. Mob mentality at its finest hour. A chance to control the machine. How will they choose who deserves to die? What happens when there's only one person left? \"Circle\" is a film about humanity. How we value one another and how people react when they are forced to make decisions under the worst possible circumstances. It's a film that speaks to the very core of what makes us human - Who we are, what we believe and ultimately, the lengths we will go to in which to save ourselves.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/f9a76912-06d5-4256-a746-6f9ee88fbebe.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#93C5FD",
-      "#1D4ED8"
+      "#C4B5FD",
+      "#4C1D95"
     ]
   },
   {
@@ -1998,15 +2235,16 @@ export const realMovies: Movie[] = [
     "rating": 5.0,
     "genres": [
       "Comedy",
-      "Romance"
+      "Romance",
+      "Destacados"
     ],
     "duration": 80,
     "description": "Friendships are put to the ultimate test over a boastful holiday newsletter.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/e0ecabd6-0e27-4f9e-89d5-dadcb3e0cec7",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCD34D",
-      "#78350F"
+      "#FCA5A5",
+      "#991B1B"
     ]
   },
   {
@@ -2016,15 +2254,16 @@ export const realMovies: Movie[] = [
     "rating": 5.2,
     "genres": [
       "Comedy",
-      "Romance"
+      "Romance",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "VÃƒÂ­ctor MartÃƒÂ­nez (Santi MillÃƒÂ¡n) is a shy 36-year-old man working as an usher at a movie theater. He still lives with his mother (Chus Lampreave). By some mistake, he ends up in a reality show with Estrella Cuevas (Paz Vega), an aspiring actress. They win the contest and are sent off to spend some time together at a luxury hotel at Oropesa del Mar. According to their contract, they have to get married and not divorce for at least three years, otherwise the contract is annulled and they have to give back their winning of EUR 253,000. Although reluctant at first, Victor finally falls in love with Estrella.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/41b631d8-f735-436e-80e3-4761828d8b09.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#5EEAD4",
-      "#115E59"
+      "#93C5FD",
+      "#1D4ED8"
     ]
   },
   {
@@ -2038,15 +2277,16 @@ export const realMovies: Movie[] = [
       "Adventure",
       "Animation",
       "Short",
-      "Comedy"
+      "Comedy",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "When Melvin tries to cancel Halloween, clever best friends Harold and George create their own spooky holiday -- and it's a huge success.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/9575e0d4-d315-403d-b178-273b81bb1a02.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDA4AF",
-      "#881337"
+      "#FCD34D",
+      "#78350F"
     ]
   },
   {
@@ -2057,15 +2297,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Animation",
       "Family",
-      "Anime"
+      "Anime",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "When a giant Grippity-Grab snags Grizelda's friendship bracelet and turns her into a mermaid, True heads under the sea with magic wishes to save the day.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/c81a00a3-01b0-4516-99de-dc0a22cf88fb.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7CFC8A",
-      "#0E7A5F"
+      "#5EEAD4",
+      "#115E59"
     ]
   },
   {
@@ -2076,15 +2317,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Comedy",
       "Family",
-      "Sport"
+      "Sport",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Performing community service for a children's home is Henry's punishment for his gambling addiction. Henry is given the chance to use his past soccer career to right the wrongs by helping the newly created kid's team and potentially save their home.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/71d72b90-cac6-4540-9ed4-d3f0a6606ffb.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FFB86B",
-      "#B3352C"
+      "#FDA4AF",
+      "#881337"
     ]
   },
   {
@@ -2096,15 +2338,16 @@ export const realMovies: Movie[] = [
       "Science Fiction",
       "Drama",
       "Action",
-      "Adventure"
+      "Adventure",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/5deb81a8-3bc5-4482-8c79-2b4348bd5c75.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#7DD3FC",
-      "#1E3A8A"
+      "#7CFC8A",
+      "#0E7A5F"
     ]
   },
   {
@@ -2116,15 +2359,17 @@ export const realMovies: Movie[] = [
       "Cartoon",
       "Comedy",
       "Action",
-      "Family"
+      "Family",
+      "Kids",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "The kingdom is in a festive mood as everyone gathers for the royal wedding of Rapunzel and Flynn. However, when Pascal and Maximus, as flower chameleon and ring bearer, respectively, lose the gold bands, a frenzied search and recovery mission gets underway. As the desperate duo tries to find the rings before anyone discovers that they’re missing, they leave behind a trail of comical chaos that includes flying lanterns, a flock of doves, a wine barrel barricade and a very sticky finale. Will Maximus and Pascal save the day and make it to the church in time? And will they ever get Flynn’s nose right?",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/1969259c-a6d0-48ed-8a4e-bb3466d2dde9.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#F472B6",
-      "#7E22CE"
+      "#FFB86B",
+      "#B3352C"
     ]
   },
   {
@@ -2136,15 +2381,16 @@ export const realMovies: Movie[] = [
       "Fantasy",
       "Action",
       "Adventure",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "The Fantastic Four return to the big screen as a new and all powerful enemy threatens the Earth. The seemingly unstoppable 'Silver Surfer', but all is not what it seems and there are old and new enemies that pose a greater threat than the intrepid superheroes realize.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/7c9a4922-435f-4c46-a9e4-8efe525a137e.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FDE68A",
-      "#B45309"
+      "#7DD3FC",
+      "#1E3A8A"
     ]
   },
   {
@@ -2156,15 +2402,17 @@ export const realMovies: Movie[] = [
       "Family",
       "Adventure",
       "Comedy",
-      "Cartoon"
+      "Cartoon",
+      "Kids",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "When a greedy outlaw schemes to take possession of the \"Patch Of Heaven\" dairy farm, three determined cows, a karate-kicking stallion and a colorful corral of critters join forces to save their home. The stakes are sky-high as this unlikely animal alliance risk their hides and match wits with a mysterious band of bad guys.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/413c9be4-810f-4244-8877-cac5e11299df.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#A7F3D0",
-      "#065F46"
+      "#F472B6",
+      "#7E22CE"
     ]
   },
   {
@@ -2177,15 +2425,17 @@ export const realMovies: Movie[] = [
       "Adventure",
       "Short",
       "Comedy",
-      "Cartoon"
+      "Cartoon",
+      "Kids",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Set before the events of ‘Soul’, 22 refuses to go to Earth, enlisting a gang of 5 new souls in attempt of rebellion. However, 22’s subversive plot leads to a surprising revelation about the meaning of life.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/93247b7c-bd35-4440-a2fe-84efcbebbcd7.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#C4B5FD",
-      "#4C1D95"
+      "#FDE68A",
+      "#B45309"
     ]
   },
   {
@@ -2198,15 +2448,16 @@ export const realMovies: Movie[] = [
       "TV Movie",
       "Adventure",
       "Thriller",
-      "Fantasy"
+      "Fantasy",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "The Cromwell clan live in the real world, except for their grandmother who lives in Halloweentown, a place where monsters go to escape reality. But now the son of the Cromwells' old enemy Kalabar has a plan to use the grandmother's book to turn Halloweentown into a grey dreary version of the real world, while transform the denizens of the real world into monsters.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/6c9c43a1-d0ff-4882-9aef-f57ec7b876a4.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCA5A5",
-      "#991B1B"
+      "#A7F3D0",
+      "#065F46"
     ]
   },
   {
@@ -2218,15 +2469,17 @@ export const realMovies: Movie[] = [
       "Family",
       "Adventure",
       "Comedy",
-      "Cartoon"
+      "Cartoon",
+      "Kids",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "When the sky really is falling and sanity has flown the coop, who will rise to save the day? Together with his hysterical band of misfit friends, Chicken Little must hatch a plan to save the planet from alien invasion and prove that the world's biggest hero is a little chicken.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/44792942-c522-43b2-be37-4430204198e9.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#93C5FD",
-      "#1D4ED8"
+      "#C4B5FD",
+      "#4C1D95"
     ]
   },
   {
@@ -2238,15 +2491,16 @@ export const realMovies: Movie[] = [
       "Fantasy",
       "Family",
       "Action",
-      "Adventure"
+      "Adventure",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Balthazar Blake is a master sorcerer in modern-day Manhattan trying to defend the city from his arch-nemesis, Maxim Horvath. Balthazar can't do it alone, so he recruits Dave Stutler, a seemingly average guy who demonstrates hidden potential, as his reluctant protégé. The sorcerer gives his unwilling accomplice a crash course in the art and science of magic, and together, these unlikely partners work to stop the forces of darkness.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/e05b44a6-7578-4752-89c0-d4b10b96b91a.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#FCD34D",
-      "#78350F"
+      "#FCA5A5",
+      "#991B1B"
     ]
   },
   {
@@ -2257,15 +2511,16 @@ export const realMovies: Movie[] = [
     "genres": [
       "Drama",
       "Comedy",
-      "Animation"
+      "Animation",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "A young Colombian girl has to face the frustration of being the only member of her family without magical powers.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/d4c67d20-b386-4799-8be4-f1f0823daf76.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
-      "#5EEAD4",
-      "#115E59"
+      "#93C5FD",
+      "#1D4ED8"
     ]
   },
   {
@@ -2274,15 +2529,220 @@ export const realMovies: Movie[] = [
     "year": 2025,
     "rating": 8.0,
     "genres": [
-      "Documentary"
+      "Documentary",
+      "Destacados"
     ],
-    "duration": 90,
+    "duration": 95,
     "description": "Its focus will be on the inventor-explorer-environmentalist-filmmaker revolution, i.e., giving mankind the resources to explore the ocean with the Aqua Lung, calling attention to ocean pollution, and his longtime collaboration.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/89fb068c-3052-43a2-b296-51eed60b0cbe.jpg",
     "streamUrl": "/media/bunny.mp4",
     "colors": [
+      "#FCD34D",
+      "#78350F"
+    ]
+  },
+  {
+    "id": "15E33A560A784528801E1F948C8E52E5",
+    "title": "The Mongoose",
+    "year": 2024,
+    "rating": 7.5,
+    "genres": [
+      "Destacados"
+    ],
+    "duration": 95,
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#5EEAD4",
+      "#115E59"
+    ]
+  },
+  {
+    "id": "9BB6ECE52D1143DDB5FF15BC945A58DB",
+    "title": "Apocalipsis Z: El Principio del Fin",
+    "year": 2024,
+    "rating": 7.5,
+    "genres": [
+      "Destacados"
+    ],
+    "duration": 95,
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
       "#FDA4AF",
       "#881337"
+    ]
+  },
+  {
+    "id": "029E1E0FB4F7491DB2629EC04DD4E06F",
+    "title": "Masterplan",
+    "year": 2024,
+    "rating": 7.5,
+    "genres": [
+      "Destacados"
+    ],
+    "duration": 95,
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#7CFC8A",
+      "#0E7A5F"
+    ]
+  },
+  {
+    "id": "4251622E244544CFA1CF3AA2E98D24D9",
+    "title": "La Odisea",
+    "year": 2024,
+    "rating": 7.5,
+    "genres": [
+      "Destacados"
+    ],
+    "duration": 95,
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#FFB86B",
+      "#B3352C"
+    ]
+  },
+  {
+    "id": "85C2AF2E64724356B5472D1F25A6D17C",
+    "title": "Sacrificio: Los Elegidos",
+    "year": 2024,
+    "rating": 7.5,
+    "genres": [
+      "Destacados"
+    ],
+    "duration": 95,
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#7DD3FC",
+      "#1E3A8A"
+    ]
+  },
+  {
+    "id": "DBFD23A87C404F33A2465E376CD4C507",
+    "title": "La razón de estar contigo: Una Navidad perfecta",
+    "year": 2024,
+    "rating": 7.5,
+    "genres": [
+      "Destacados"
+    ],
+    "duration": 95,
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#F472B6",
+      "#7E22CE"
+    ]
+  },
+  {
+    "id": "EFC042CA053F48C9A0F659EB6B4A6BC7",
+    "title": "Marsupilami: Caos a bordo",
+    "year": 2024,
+    "rating": 7.5,
+    "genres": [
+      "Destacados"
+    ],
+    "duration": 95,
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#FDE68A",
+      "#B45309"
+    ]
+  },
+  {
+    "id": "41602E18302A4599AD9A63A120B01296",
+    "title": "El corazón de la bestia",
+    "year": 2024,
+    "rating": 7.5,
+    "genres": [
+      "Destacados"
+    ],
+    "duration": 95,
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#A7F3D0",
+      "#065F46"
+    ]
+  },
+  {
+    "id": "920E8FB6028B44BFB93D922F17E9ABC6",
+    "title": "Resident Evil: Noche Cero",
+    "year": 2024,
+    "rating": 7.5,
+    "genres": [
+      "Destacados"
+    ],
+    "duration": 95,
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#C4B5FD",
+      "#4C1D95"
+    ]
+  },
+  {
+    "id": "3CD62D5F15A744BFB8A2BF272D88D27A",
+    "title": "Colisión",
+    "year": 2024,
+    "rating": 7.5,
+    "genres": [
+      "Destacados"
+    ],
+    "duration": 95,
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#FCA5A5",
+      "#991B1B"
+    ]
+  },
+  {
+    "id": "10D183F409D64B11B0F9C3DDB8EF668D",
+    "title": "Heartland",
+    "year": 2024,
+    "rating": 7.5,
+    "genres": [
+      "Destacados"
+    ],
+    "duration": 95,
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#93C5FD",
+      "#1D4ED8"
+    ]
+  },
+  {
+    "id": "7189D21B106C4192AE63CEA41DEC8EAB",
+    "title": "Madre siniestra",
+    "year": 2024,
+    "rating": 7.5,
+    "genres": [
+      "Destacados"
+    ],
+    "duration": 95,
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "streamUrl": "/media/bunny.mp4",
+    "colors": [
+      "#FCD34D",
+      "#78350F"
     ]
   }
 ];

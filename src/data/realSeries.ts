@@ -2353,7 +2353,7 @@ export const realSeries: Series[] = [
     "id": "5E7DD2ED6C804093A96911D9DB6B1D2E",
     "title": "Ladrona de guante blanco T1",
     "year": 2026,
-    "rating": 7.5,
+    "rating": 7.8,
     "genres": [
       "Adventure",
       "Drama"
@@ -3932,7 +3932,7 @@ export const realSeries: Series[] = [
     "id": "8BC18F7097DC4146B2A4A235C58E8FB4",
     "title": "A Lei do Amor T1",
     "year": 2025,
-    "rating": 7.5,
+    "rating": 7.8,
     "genres": [
       "Drama",
       "Romance"
@@ -4067,7 +4067,7 @@ export const realSeries: Series[] = [
     "id": "535DC4AEBBBBF68BBCC5FB69985B4D20",
     "title": "Señorita Pólvora",
     "year": 2025,
-    "rating": 7.5,
+    "rating": 7.8,
     "genres": [
       "Drama"
     ],
@@ -8084,7 +8084,8 @@ export const realSeries: Series[] = [
       "Crime",
       "Drama",
       "Romance",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "description": "El narcotraficante más poderoso de su tiempo, Amado Carrillo Fuentes, fue un hombre que se convirtió en el jefe del cartel de Juárez. Fue apodado como el señor de los cielos por su flota de aviones que usaba para transportar drogas.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/ce129b17-808b-4aa4-bd40-8d447cc27457",
@@ -8222,7 +8223,8 @@ export const realSeries: Series[] = [
       "Adventure",
       "Drama",
       "Sci-Fi",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "description": "Con una recompensa por su cabeza, Visión debe enfrentarse a su naturaleza y resistir la influencia de Ultrón para sobrevivir.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/34053c58-eda8-46c0-8c86-b075573b8b37",
@@ -8308,7 +8310,9 @@ export const realSeries: Series[] = [
     "year": 2026,
     "rating": 7.0,
     "genres": [
-      "Cartoon"
+      "Cartoon",
+      "Kids",
+      "Destacados"
     ],
     "description": "Únete al bebé Finn y su familia en aventuras llenas de diversión, aprendiendo siempre algo nuevo. Prepárate para cantar y bailar.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/fd44b520-9b66-40e8-bde4-aa248126a949.jpg",
@@ -8443,7 +8447,8 @@ export const realSeries: Series[] = [
     "rating": 6.7,
     "genres": [
       "Biography",
-      "Drama"
+      "Drama",
+      "Destacados"
     ],
     "description": "La vida y la carrera del cantautor colombiano de música vallenata Diomedes de Jesús Díaz, quien se convirtió en una de las voces más reconocidas de su país, mostrando su convulsionada vida entre las drogas y el alcohol.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/88042d75-cffe-4fc0-bee7-8af4e0672fce",
@@ -8578,7 +8583,9 @@ export const realSeries: Series[] = [
     "rating": 8.5,
     "genres": [
       "Cartoon",
-      "Music"
+      "Music",
+      "Kids",
+      "Destacados"
     ],
     "description": "Dbillions Kids Songs",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/12279026-e374-4f45-ab80-c7eb6c8841c9.jpg",
@@ -8717,7 +8724,8 @@ export const realSeries: Series[] = [
       "Adventure",
       "Comedy",
       "Drama",
-      "Fantasy"
+      "Fantasy",
+      "Destacados"
     ],
     "description": "La acción empieza tras los dos años y medio que el protagonista, Naruto Uzumaki, ha pasado entrenando con su maestro Jiraiya. En ella reaparecen todos los personajes de la anterior serie pero con más experiencia y fuerza. Además, la Organización Akatsuki entra definitivamente en acción, tras su breve aparición en la parte anterior, y se revelan sus objetivos. El enemigo principal de la parte anterior de Naruto, Orochimaru, ha estado mientras tanto entrenando a Sasuke Uchiha, antiguo compañero de Naruto, que abandonó voluntariamente la aldea para ganar fuerza gracias a este personaje, y así poder tomar venganza contra su hermano, Itachi Uchiha.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/4c4568c5-cfdd-4c7d-a84f-8c48af0be3a0",
@@ -8854,7 +8862,8 @@ export const realSeries: Series[] = [
       "Animation",
       "Action",
       "Adventure",
-      "Anime"
+      "Anime",
+      "Destacados"
     ],
     "description": "Serie Anime de 170 episodios. Black Clover sigue la historia de dos chicos, Asta y Yuno, que crecen en un orfanato de la iglesia de Hage, ubicada en el Reino del Trébol. Ambos se han criado en un mundo donde todas las personas tienen la habilidad de manipular el Poder Mágico. Todo menos Asta. Pero esto no le detendrá para convertirse en un Caballero Mágico al igual que Yuno al cumplir los 15 años. Yuno conseguirá el grimorio de un trébol de cuatro hojas, objeto que ayuda canalizar la magia del viento. Sin embargo, Asta no recibe ninguno. Ambos intentarán convertirse en el nuevo Rey Mago.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/93a5ebe3-8a57-4531-88f8-e897f5e46d8f.gif",
@@ -8990,7 +8999,8 @@ export const realSeries: Series[] = [
     "genres": [
       "Fantasy",
       "Horror",
-      "Romance"
+      "Romance",
+      "Destacados"
     ],
     "description": "Oskar, a bullied 12-year old, dreams of revenge. He falls in love with Eli, a peculiar girl. She can't stand the sun or food and to come into a room she needs to be invited. Eli gives Oskar the strength to hit back but when he realizes that Eli needs to drink other people's blood to live he's faced with a choice. How much can love forgive? Set in the Stockholm suburb of Blackeberg in 1982.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/706d8fe5-3ba6-4323-8ea1-a94c4714661b.jpg",
@@ -9124,7 +9134,8 @@ export const realSeries: Series[] = [
     "year": 2026,
     "rating": 7.7,
     "genres": [
-      "Drama"
+      "Drama",
+      "Destacados"
     ],
     "description": "A woman suspects her husband of having an affair. After following several lines of inquiry far more unravels including a streak of violence below the surface.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/4336e151-af0e-4e0f-b5b6-6148bb171be5.jpg",
@@ -9189,7 +9200,8 @@ export const realSeries: Series[] = [
       "Animation",
       "Action",
       "Drama",
-      "Anime"
+      "Anime",
+      "Destacados"
     ],
     "description": "When the Angels start attacking the planet Earth in the year 2015, only a handful of 14-year-old EVA pilots are able to stop them. Young Shinji Ikari suddenly finds himself forced to pilot EVA-01, a giant organic mecha, designed and constructed by NERV, that is the only thing that can stop the Angels.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/898c85e8-6c00-478d-938e-31447d7043cd.jpg",
@@ -9325,7 +9337,8 @@ export const realSeries: Series[] = [
     "genres": [
       "Crime",
       "Drama",
-      "Mystery"
+      "Mystery",
+      "Destacados"
     ],
     "description": "A look at the lives of young FBI recruits training at the Quantico base in Virginia when one of them is suspected of being a sleeper terrorist.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/083623db-6e9b-45b9-a9a1-1ead23f11ab7.jpg",
@@ -9355,7 +9368,8 @@ export const realSeries: Series[] = [
     "year": 2025,
     "rating": 6.4,
     "genres": [
-      "Drama"
+      "Drama",
+      "Destacados"
     ],
     "description": "Cha Seung Hyuk (Ryu Si Won) is used to the spotlight and loves being adored by fans and women. As a champion martial artist, he has it all - good looks, great athleticism and a winning ...",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/018c2511-7aed-474e-8f97-9bd47cd6148e.jpg",
@@ -9491,7 +9505,8 @@ export const realSeries: Series[] = [
     "genres": [
       "Crime",
       "Drama",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "description": "A hard-working lawyer discovers that her missing brother has been jailed for years and is a leader of an ascendant criminal faction.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/f78ab6a3-1ab6-4717-9d96-77540b82e9ed.jpg",
@@ -9577,7 +9592,8 @@ export const realSeries: Series[] = [
     "year": 2025,
     "rating": 7.7,
     "genres": [
-      "Comedy"
+      "Comedy",
+      "Destacados"
     ],
     "description": "A reclusive, socially awkward jingle composer finds himself navigating the nightmarish world of show business after a viral video skyrockets him to fame overnight.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/935a343a-99d5-44f5-a016-1c8e96c0e210.jpg",
@@ -9666,7 +9682,8 @@ export const realSeries: Series[] = [
       "Animation",
       "Action",
       "Adventure",
-      "Anime"
+      "Anime",
+      "Destacados"
     ],
     "description": "O destino de Eternos está em jogo. He-Man e seus heroicos companheiros buscam novas alianças para impedir Esqueleto de formar um exército invencível e conquistar o poder.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/785a5363-e4bf-4166-8366-fda6c25348f1.jpg",
@@ -9754,7 +9771,8 @@ export const realSeries: Series[] = [
     "genres": [
       "Comedy",
       "Crime",
-      "Drama"
+      "Drama",
+      "Destacados"
     ],
     "description": "The drama revolves around the incidents that occur among the police force and the joy, sorrow, and pain that police officers experience as they try to protect justice.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/2fc43658-13cd-4d3d-ae8d-996328b90842.jpg",
@@ -9890,7 +9908,8 @@ export const realSeries: Series[] = [
     "genres": [
       "Action",
       "Adventure",
-      "Drama"
+      "Drama",
+      "Destacados"
     ],
     "description": "Centenas de jogadores sem dinheiro aceitam um estranho convite para competir em jogos infantis. Lá dentro, um prêmio tentador o aguarda com um jogo de sobrevivência mortalmente alto que tem um prêmio colossal de 40 milhões de dólares em jogo.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/c9a8f1e3-f087-4a59-89e8-5a7869498d3c.jpg",
@@ -9986,7 +10005,9 @@ export const realSeries: Series[] = [
     "genres": [
       "Short",
       "Action",
-      "Cartoon"
+      "Cartoon",
+      "Kids",
+      "Destacados"
     ],
     "description": "It tells the story of four fierce and furry superhero kittens who are on a mission to make Kittydale a more caring and \"pawesome\" place.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/b66721e4-7f72-45fd-95b0-017652161b67.jpg",
@@ -10122,7 +10143,9 @@ export const realSeries: Series[] = [
     "genres": [
       "Adventure",
       "Comedy",
-      "Cartoon"
+      "Cartoon",
+      "Kids",
+      "Destacados"
     ],
     "description": "Fun-loving pug puppies, brothers Bingo and Rolly, have thrill-seeking appetites that take them on exhilarating adventures in their neighborhood and around the globe.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/99512a7b-4878-41af-894d-945ada037b32.jpg",
@@ -10258,7 +10281,9 @@ export const realSeries: Series[] = [
     "genres": [
       "Action",
       "Adventure",
-      "Cartoon"
+      "Cartoon",
+      "Kids",
+      "Destacados"
     ],
     "description": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains throughout the universe and high school, mainly to protect her extremely powerful wand, an object that still confuses her.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/e355ea39-580f-4f0f-963c-4e9e0e4770a5.jpg",
@@ -10386,7 +10411,9 @@ export const realSeries: Series[] = [
     "genres": [
       "Action",
       "Adventure",
-      "Cartoon"
+      "Cartoon",
+      "Kids",
+      "Destacados"
     ],
     "description": "Intergalactic warrior Star Butterfly arrives on Earth to live with the Diaz family. She continues to battle villains throughout the universe and high school, mainly to protect her extremely powerful wand, an object that still confuses her.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/1983b8c2-b09f-4be3-ae36-8ffd0454af6d.jpg",
@@ -10522,7 +10549,9 @@ export const realSeries: Series[] = [
     "genres": [
       "Action",
       "Adventure",
-      "Cartoon"
+      "Cartoon",
+      "Kids",
+      "Destacados"
     ],
     "description": "After having skirmished with a number of dangerous monsters, Star Butterfly arrives on Earth to live with the Diaz family. However, rather than living a normal life, Star continues on having to battle villains both throughout the universe and in their high school, although if only to protect her extremely powerful wand, an object which she is still confused with.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/01d03950-4666-42f4-a741-c43ea85adc38.jpg",
@@ -10658,7 +10687,8 @@ export const realSeries: Series[] = [
     "genres": [
       "Animation",
       "Action",
-      "Family"
+      "Family",
+      "Destacados"
     ],
     "description": "The X-Men are an elite team of mutants, genetically gifted human beings with superpowers, sworn to fight for mutant rights against hostile Government agencies, whilst at the same time protecting mankind from mutant supremacist Magneto who seeks to destroy the human race in return for the atrocities committed against mutant kind.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/5711baa6-4f7a-4070-8664-3939563982a5.jpg",
@@ -10786,7 +10816,8 @@ export const realSeries: Series[] = [
     "genres": [
       "Drama",
       "Horror",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "description": "Rick Grimes wakes up from a coma to a world overrun by zombies, on a journey to find his family he must learn to survive the streets of post-apocalyptic Atlanta.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/513c5952-4e25-4c09-ab76-200a838f9cbd.jpg",
@@ -10858,7 +10889,8 @@ export const realSeries: Series[] = [
     "genres": [
       "Drama",
       "Horror",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "description": "Rick attempts to use his authority in Alexandria to keep the inhabitants safe, even as a new threat looms.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/783c3d08-5cbe-4c36-866f-b376a7ab7ef1.jpg",
@@ -10994,7 +11026,8 @@ export const realSeries: Series[] = [
     "genres": [
       "Drama",
       "Horror",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "description": "As the group settle into life in a stable shelter, a new danger threatens disaster.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/74416318-3ad7-4a71-8c05-2d9d6d31fe34.jpg",
@@ -11130,7 +11163,8 @@ export const realSeries: Series[] = [
     "genres": [
       "Drama",
       "Horror",
-      "Thriller"
+      "Thriller",
+      "Destacados"
     ],
     "description": "All who live in Alexandria struggle to refortify it and feed its increasing number of residents, which include the survivors from the fall of the Kingdom and the burning of Hilltop; along with Maggie and her new group, the Wardens. Alexandria has more people than it can manage to feed and protect. Their situation is dire as tensions heat up over past events and self-preservation rises to the surface within the ravaged walls.\n\nThey must secure more food while they attempt to restore Alexandria before it collapses like countless other communities they have come across throughout the years. But where and how? More haggard and hungrier than ever before, they must dig deeper to find the effort and strength to safeguard the lives of their children, even if it means losing their own.\n\nMeanwhile, unbeknownst to those at Alexandria, Eugene, Ezekiel, Yumiko, and Princess are still being held captive by mysterious soldiers who are members of a larger and unforthcoming group.",
     "posterUrl": "https://cmscjw.9np35rfp.xyz/public/images/4ce68611-cd59-40dc-9df3-75f592a16c6a.jpg",
@@ -11251,6 +11285,454 @@ export const realSeries: Series[] = [
             "number": 14,
             "title": "Episodio 14",
             "description": "Episodio 14 de The Walking Dead Temp.11",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "A8B9D0EB74B74CD58233973D74B8BD3A",
+    "title": "The Chosen T6",
+    "year": 2024,
+    "rating": 7.8,
+    "genres": [
+      "Destacados"
+    ],
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "colors": [
+      "#FCA5A5",
+      "#991B1B"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "A8B9D0EB74B74CD58233973D74B8BD3A-s1-e1",
+            "number": 1,
+            "title": "Episodio 1",
+            "description": "Episodio 1 de The Chosen T6",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "A8B9D0EB74B74CD58233973D74B8BD3A-s1-e2",
+            "number": 2,
+            "title": "Episodio 2",
+            "description": "Episodio 2 de The Chosen T6",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "A8B9D0EB74B74CD58233973D74B8BD3A-s1-e3",
+            "number": 3,
+            "title": "Episodio 3",
+            "description": "Episodio 3 de The Chosen T6",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "24F2F5CE936C4A95B592BB825F354245",
+    "title": "La Edad Dorada T4",
+    "year": 2024,
+    "rating": 7.8,
+    "genres": [
+      "Destacados"
+    ],
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "colors": [
+      "#93C5FD",
+      "#1D4ED8"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "24F2F5CE936C4A95B592BB825F354245-s1-e1",
+            "number": 1,
+            "title": "Episodio 1",
+            "description": "Episodio 1 de La Edad Dorada T4",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "24F2F5CE936C4A95B592BB825F354245-s1-e2",
+            "number": 2,
+            "title": "Episodio 2",
+            "description": "Episodio 2 de La Edad Dorada T4",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "24F2F5CE936C4A95B592BB825F354245-s1-e3",
+            "number": 3,
+            "title": "Episodio 3",
+            "description": "Episodio 3 de La Edad Dorada T4",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "AC4C445F12C44CBE855428C3BDD1A11B",
+    "title": "Dexter: Resurrección T2",
+    "year": 2024,
+    "rating": 7.8,
+    "genres": [
+      "Destacados"
+    ],
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "colors": [
+      "#FCD34D",
+      "#78350F"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "AC4C445F12C44CBE855428C3BDD1A11B-s1-e1",
+            "number": 1,
+            "title": "Episodio 1",
+            "description": "Episodio 1 de Dexter: Resurrección T2",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "AC4C445F12C44CBE855428C3BDD1A11B-s1-e2",
+            "number": 2,
+            "title": "Episodio 2",
+            "description": "Episodio 2 de Dexter: Resurrección T2",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "AC4C445F12C44CBE855428C3BDD1A11B-s1-e3",
+            "number": 3,
+            "title": "Episodio 3",
+            "description": "Episodio 3 de Dexter: Resurrección T2",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6363BB6FD30642528C236926954E90A0",
+    "title": "Palomas negras T2",
+    "year": 2024,
+    "rating": 7.8,
+    "genres": [
+      "Destacados"
+    ],
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "colors": [
+      "#5EEAD4",
+      "#115E59"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "6363BB6FD30642528C236926954E90A0-s1-e1",
+            "number": 1,
+            "title": "Episodio 1",
+            "description": "Episodio 1 de Palomas negras T2",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "6363BB6FD30642528C236926954E90A0-s1-e2",
+            "number": 2,
+            "title": "Episodio 2",
+            "description": "Episodio 2 de Palomas negras T2",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "6363BB6FD30642528C236926954E90A0-s1-e3",
+            "number": 3,
+            "title": "Episodio 3",
+            "description": "Episodio 3 de Palomas negras T2",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "6363BB6FD30642528C236926954E90A0-s1-e4",
+            "number": 4,
+            "title": "Episodio 4",
+            "description": "Episodio 4 de Palomas negras T2",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "6363BB6FD30642528C236926954E90A0-s1-e5",
+            "number": 5,
+            "title": "Episodio 5",
+            "description": "Episodio 5 de Palomas negras T2",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "6363BB6FD30642528C236926954E90A0-s1-e6",
+            "number": 6,
+            "title": "Episodio 6",
+            "description": "Episodio 6 de Palomas negras T2",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5E6DF474D7884C98AA69C93D195674A5",
+    "title": "El señor de los anillos: Los anillos de poder T3",
+    "year": 2024,
+    "rating": 7.8,
+    "genres": [
+      "Destacados"
+    ],
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "colors": [
+      "#FDA4AF",
+      "#881337"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "5E6DF474D7884C98AA69C93D195674A5-s1-e1",
+            "number": 1,
+            "title": "Episodio 1",
+            "description": "Episodio 1 de El señor de los anillos: Los anillos de poder T3",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "5E6DF474D7884C98AA69C93D195674A5-s1-e2",
+            "number": 2,
+            "title": "Episodio 2",
+            "description": "Episodio 2 de El señor de los anillos: Los anillos de poder T3",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "5E6DF474D7884C98AA69C93D195674A5-s1-e3",
+            "number": 3,
+            "title": "Episodio 3",
+            "description": "Episodio 3 de El señor de los anillos: Los anillos de poder T3",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "5E6DF474D7884C98AA69C93D195674A5-s1-e4",
+            "number": 4,
+            "title": "Episodio 4",
+            "description": "Episodio 4 de El señor de los anillos: Los anillos de poder T3",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "5E6DF474D7884C98AA69C93D195674A5-s1-e5",
+            "number": 5,
+            "title": "Episodio 5",
+            "description": "Episodio 5 de El señor de los anillos: Los anillos de poder T3",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "5E6DF474D7884C98AA69C93D195674A5-s1-e6",
+            "number": 6,
+            "title": "Episodio 6",
+            "description": "Episodio 6 de El señor de los anillos: Los anillos de poder T3",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "715EA59B66634786B9F3084F3CA718A4",
+    "title": "12 12 12 T1",
+    "year": 2024,
+    "rating": 7.8,
+    "genres": [
+      "Destacados"
+    ],
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "colors": [
+      "#7CFC8A",
+      "#0E7A5F"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "715EA59B66634786B9F3084F3CA718A4-s1-e1",
+            "number": 1,
+            "title": "Episodio 1",
+            "description": "Episodio 1 de 12 12 12 T1",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "715EA59B66634786B9F3084F3CA718A4-s1-e2",
+            "number": 2,
+            "title": "Episodio 2",
+            "description": "Episodio 2 de 12 12 12 T1",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "715EA59B66634786B9F3084F3CA718A4-s1-e3",
+            "number": 3,
+            "title": "Episodio 3",
+            "description": "Episodio 3 de 12 12 12 T1",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "532DBA89575440B2B4F7326DE7EA831E",
+    "title": "Un trabajo maldito T1",
+    "year": 2024,
+    "rating": 7.8,
+    "genres": [
+      "Destacados"
+    ],
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "colors": [
+      "#FFB86B",
+      "#B3352C"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "532DBA89575440B2B4F7326DE7EA831E-s1-e1",
+            "number": 1,
+            "title": "Episodio 1",
+            "description": "Episodio 1 de Un trabajo maldito T1",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "532DBA89575440B2B4F7326DE7EA831E-s1-e2",
+            "number": 2,
+            "title": "Episodio 2",
+            "description": "Episodio 2 de Un trabajo maldito T1",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "532DBA89575440B2B4F7326DE7EA831E-s1-e3",
+            "number": 3,
+            "title": "Episodio 3",
+            "description": "Episodio 3 de Un trabajo maldito T1",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "532DBA89575440B2B4F7326DE7EA831E-s1-e4",
+            "number": 4,
+            "title": "Episodio 4",
+            "description": "Episodio 4 de Un trabajo maldito T1",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "532DBA89575440B2B4F7326DE7EA831E-s1-e5",
+            "number": 5,
+            "title": "Episodio 5",
+            "description": "Episodio 5 de Un trabajo maldito T1",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "532DBA89575440B2B4F7326DE7EA831E-s1-e6",
+            "number": 6,
+            "title": "Episodio 6",
+            "description": "Episodio 6 de Un trabajo maldito T1",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "532DBA89575440B2B4F7326DE7EA831E-s1-e7",
+            "number": 7,
+            "title": "Episodio 7",
+            "description": "Episodio 7 de Un trabajo maldito T1",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "532DBA89575440B2B4F7326DE7EA831E-s1-e8",
+            "number": 8,
+            "title": "Episodio 8",
+            "description": "Episodio 8 de Un trabajo maldito T1",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6488CE0C69B542E2A50DE069D6EB09FA",
+    "title": "Ciudad de Dios: La lucha no para T2",
+    "year": 2024,
+    "rating": 7.8,
+    "genres": [
+      "Destacados"
+    ],
+    "description": "Sin descripción disponible.",
+    "posterUrl": "",
+    "colors": [
+      "#7DD3FC",
+      "#1E3A8A"
+    ],
+    "seasons": [
+      {
+        "number": 1,
+        "episodes": [
+          {
+            "id": "6488CE0C69B542E2A50DE069D6EB09FA-s1-e1",
+            "number": 1,
+            "title": "Episodio 1",
+            "description": "Episodio 1 de Ciudad de Dios: La lucha no para T2",
+            "duration": 45,
+            "streamUrl": "/media/sintel.mp4"
+          },
+          {
+            "id": "6488CE0C69B542E2A50DE069D6EB09FA-s1-e2",
+            "number": 2,
+            "title": "Episodio 2",
+            "description": "Episodio 2 de Ciudad de Dios: La lucha no para T2",
             "duration": 45,
             "streamUrl": "/media/sintel.mp4"
           }
